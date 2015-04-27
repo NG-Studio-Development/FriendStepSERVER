@@ -69,8 +69,9 @@ if (isset($_GET["userId"]) && isset($_GET["friendId"]) && isset($_GET["message"]
 				include_once './GCM.php';
 				$gcm = new GCM();
 				$registatoin_ids = array($regId);
-				$from = "FROM_SWEB";
-				$message = array("price" => $message, "from_gcm" => $from);
+				//$from = "FROM_SWEB";
+				
+				$message = array("price" => $message, "from_id" => $userId);
 				$result = $gcm->send_notification($registatoin_ids, $message);
 				
 				handleResult($result, $message["price"], $userId, $friendId,$con);

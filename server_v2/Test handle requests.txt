@@ -1,0 +1,3 @@
+http://akimovdev.temp.swtest.ru/server_v2/register.php?regId=1&name=HANDLE_TEST&email=HT@HT.com&pass=HTpass" => Hand registr
+
+http://akimovdev.temp.swtest.ru/server_v2/request_to_friend.php?id=62&name=HT => Send candidature
