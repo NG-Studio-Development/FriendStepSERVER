@@ -1,6 +1,6 @@
 	<?php 
 		
-		$user_id = $_GET['id'];
+		/*$user_id = $_GET['id'];
 		$prnt_get = print_r($_GET,true);
 		file_put_contents('mylog.log',$prnt_get, FILE_APPEND);
 		 
@@ -45,7 +45,7 @@
 			echo json_encode($contacts);
 		}
 
-		mysql_close($con);
+		mysql_close($con); */
 	?>
 
 

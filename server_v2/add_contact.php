@@ -34,7 +34,7 @@ class ContactRequest {
 				if($line = mysql_fetch_array($result, MYSQL_ASSOC)) {
 					
 					$id_friend = $line['id'];
-					$sqlInsert = "INSERT INTO Friends(id_friend,id_user,status) VALUES('$id_friend','$user_id','$status')";
+					$sqlInsert = "INSERT INTO Friends(id_user,id_friend,status) VALUES('$id_friend','$user_id','$status')";
 					
 					if (!mysql_query($sqlInsert, $con)) {
 						echo "Error: Not add friend <br>";
