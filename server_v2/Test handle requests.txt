@@ -3,3 +3,5 @@ http://akimovdev.temp.swtest.ru/server_v2/register.php?regId=1&name=HANDLE_TEST&
 http://akimovdev.temp.swtest.ru/server_v2/request_to_friend.php?id=62&name=HT => Send candidature
 
 http://akimovdev.temp.swtest.ru/server_v2/add_contact.php?name=n&id=-1&action=0&t=1111
+
+

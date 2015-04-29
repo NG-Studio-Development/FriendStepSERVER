@@ -28,10 +28,11 @@ class GCM {
         // Set POST variables
         $url = 'https://android.googleapis.com/gcm/send';
 		
-		
+		$from = "FROM_SWEB";
         $fields = array(
             'registration_ids' => $registatoin_ids,
             'data' => $message,
+            'from' => $from
         );
 
         $headers = array(
