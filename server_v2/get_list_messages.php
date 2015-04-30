@@ -28,7 +28,7 @@ if (isset($_GET["userId"]) && isset($_GET["friendId"])) {
 		$messages = array();
 		while($line = mysql_fetch_array($result, MYSQL_ASSOC)) {
 			$time = strtotime($line['messagetime']);
-			$message = array("message" => $line['message'], "sender_id"=>$line['id_sender'], "messagetime"=>$time);
+			$message = array("message" => $line['message'], "sender_id"=>$line['id_sender'], "receiver_id"=>$line['id_receiver'], "messagetime"=>$time);
 			array_push($messages, $message);
 		}
 		

@@ -19,7 +19,7 @@ function queryInsertMessage($message, $senderId, $friendId, $con) {
 	$time = $date->getTimestamp();
 	echo "<br>Time = ".$time."<br>";
 	
-	$sqlInsertMessage = "INSERT INTO Messages(message, id_sender) VALUES ('".$message."','".$senderId."')";
+	$sqlInsertMessage = "INSERT INTO Messages(message, id_sender, id_receiver) VALUES ('".$message."','".$senderId."','".$friendId."')";
 	
 	echo "<br>sqlInsertMessage = ".$sqlInsertMessage."<br>";
 	

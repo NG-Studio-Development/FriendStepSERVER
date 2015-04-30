@@ -54,9 +54,21 @@ class ContactRequest {
 	}
 	
     public function approveCandidate($name, $user_id) {
+        
+         $prnt_get = "UPDATE Friends 
+                      SET status = 1
+                      WHERE id_friend = (SELECT id from tblRegistration WHERE name = '$name')";
+         
+         
+        file_put_contents('mylog.log',$prnt_get, FILE_APPEND);
+        
         $this->query("UPDATE Friends 
                       SET status = 1
                       WHERE id_friend = (SELECT id from tblRegistration WHERE name = '$name')");
+         
+         $this->addContact($name, $user_id, 1);
+       
+                             
     }
     
     private function query($sqlQuery) {
