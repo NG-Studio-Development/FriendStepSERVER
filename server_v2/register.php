@@ -45,7 +45,7 @@ class Register {
       if(empty($row)) {
           echo "Error authorization";
       } else {
-        echo json_encode($row, JSON_FORCE_OBJECT);    
+          echo json_encode($row, JSON_FORCE_OBJECT);    
       }
           //$authorization = TRUE;
       

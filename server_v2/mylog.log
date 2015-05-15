@@ -1,0 +1,314 @@
+Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [id] => 70
+    [tempValue] => 0?
+)
+In get avatarIn get avatarArray
+(
+    [id] => 70
+    [tempValue] => 0?
+)
+Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')\n is pushArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [id] => 70
+    [tempValue] => 0?
+)
+In get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarIn get avatarIn get avatarIn get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [id] => 70
+    [tempValue] => 0?
+)
+In get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [id] => 70
+    [tempValue] => 0?
+)
+In get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarIn get avatarArray
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+)
+Array
+(
+    [user_id] => 71
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '71')Array
+(
+    [user_id] => 71
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '71')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT * FROM Locations WHERE id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT tblRegistration.id, tblRegistration.name, Locations.latitude, Locations.longitude 
+                        FROM tblRegistration INNER JOIN Locations 
+                        ON tblRegistration.id = Locations.id_user 
+                        WHERE Locations.id_user IN (SELECT id_friend from Friends WHERE id_user = '70')Array
+(
+    [user_id] => 71
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT tblRegistration.id, tblRegistration.name, Locations.latitude, Locations.longitude 
+                        FROM tblRegistration INNER JOIN Locations 
+                        ON tblRegistration.id = Locations.id_user 
+                        WHERE Locations.id_user IN (SELECT id_friend from Friends WHERE id_user = '71')Array
+(
+    [user_id] => 71
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 50
+)
+
+SELECT tblRegistration.id, tblRegistration.name, Locations.latitude, Locations.longitude 
+                        FROM tblRegistration INNER JOIN Locations 
+                        ON tblRegistration.id = Locations.id_user 
+                        WHERE Locations.id_user IN (SELECT id_friend from Friends WHERE id_user = '71')Array
+(
+    [user_id] => 71
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 2000
+)
+
+SELECT tblRegistration.id, tblRegistration.name, Locations.latitude, Locations.longitude 
+                        FROM tblRegistration INNER JOIN Locations 
+                        ON tblRegistration.id = Locations.id_user 
+                        WHERE Locations.id_user IN (SELECT id_friend from Friends WHERE id_user = '71')Array
+(
+    [user_id] => 70
+    [user_lat] => 47.199702
+    [user_long] => 39.626338
+    [distance_find] => 1000
+    [temp] => 22?
+)
+
+SELECT tblRegistration.id, tblRegistration.name, Locations.latitude, Locations.longitude 
+                        FROM tblRegistration INNER JOIN Locations 
+                        ON tblRegistration.id = Locations.id_user 
+                        WHERE Locations.id_user IN (SELECT id_friend from Friends WHERE id_user = '70')In get avatarIn get avatarIn get avatarIn get avatar
